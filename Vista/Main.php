@@ -44,8 +44,8 @@ function SumitEnviar()
 		</div>
 		<div class='info'>
 			<h1>Precione Calcular para saber su peso ideal</h1>
-			<p>Le indicaremos con cual peso ideal en Km, una ves indicado puede tomar las medidas de salud necarias para obtnerlo en caso de no ser asi...</p>
-			<p><b>Aprenderas:</b> 
+			<p>Le indicaremos cual es su peso ideal en Kg, una ves indicado puede tomar las medidas de salud necesarias para obtener su peso ideal en caso de no tenerlo...</p>
+			<p><b>Sabras:</b> 
 				<span>Tu peso ideal</span>
 			</p>
 		</div>
