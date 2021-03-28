@@ -12,17 +12,17 @@
 	<div id='container'>
 		<div class='data'>
 			<form action="..\index.php" method="post">
-				<button type="submit" value="Submit">Volver</button>
-				<img src="..\Vista\IMG/IDEAL.jpg" alt="" width="250px" height="228px" /><br>
+				<button type="submit" value="Submit">Volver</button><br><br>
+				<img src="..\Vista\IMG/IDEAL.jpg" alt="" width="250px" height="210px" />
 			</form>
 		</div>
 		<div class='info'>
 			<h1>Su peso ideal es de</h1>
-			<?php echo $rPIdeal;?> Kg
+			<span> <?php echo $rPIdeal;?> Kg </span> 
 			<h2>Esto para una altura de</h2>
-			<?php echo $Altura;?> Cm
+			<span> <?php echo $Altura;?> Cm </span> 
 			<h2>En una edad de</h2>
-			<?php echo $Edad;?> Años
+			<span> <?php echo $Edad;?> Años </span> 
 		</div>
 	</div>
 

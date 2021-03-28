@@ -38,8 +38,8 @@ function SumitEnviar()
 				<input type='text' name="Altura" id="IdAltura" placeholder='Ingrese su altura en cm:'  value="" maxlength="9" onKeypress="if (event.keyCode < 45 || event.keyCode > 57) event.returnValue = false;"/>
 				<input type='text' name="Edad" id="IdEdad" placeholder='Ingrese su edad:'  value="" maxlength="9" onKeypress="if (event.keyCode < 45 || event.keyCode > 57) event.returnValue = false;"/>
 				
-				<a class="btn btn-primary" id="btnEnviar" href="javascript:SumitEnviar()">Calcular</a><br>
-				<img src="Vista\IMG/PESA.jpg" alt="" width="100px" height="139px" />
+				<a class="btn btn-primary" id="btnEnviar" href="javascript:SumitEnviar()">Calcular</a><br><br>
+				<img src="Vista\IMG/PESA.jpg" alt="" width="100px" height="115px" />
 			</form>
 		</div>
 		<div class='info'>
